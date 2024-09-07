@@ -6,7 +6,7 @@ const FooterContainer = styled.footer`
   color: grey;
   padding: 20px;
   text-align: center;
-  position: relative; /* Make sure it's relative for positioning */
+  position: relative; 
   width: 100%;
   bottom: 0;
   box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.1);
